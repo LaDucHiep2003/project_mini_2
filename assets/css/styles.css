@@ -79,8 +79,8 @@
     margin-bottom: 10px;
 }
 .section-one .inner-desc{
-    color: #777;
     margin-bottom: 20px;
+    color: #fff;
 }
 @media (max-width:767.98px){
     .section-one .inner-title{
